@@ -1,2 +1,2 @@
 # bookbot
-Working in Python
+Using this project to learn git!
